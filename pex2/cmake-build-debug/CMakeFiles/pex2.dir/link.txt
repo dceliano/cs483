@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/pex2.dir/main.c.o CMakeFiles/pex2.dir/lrustack.c.o  -o pex2 

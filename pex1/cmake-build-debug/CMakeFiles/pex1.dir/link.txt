@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/pex1.dir/list.c.o CMakeFiles/pex1.dir/listtest.c.o CMakeFiles/pex1.dir/shell.c.o  -o pex1 

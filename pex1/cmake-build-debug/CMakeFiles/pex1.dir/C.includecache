@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs483/Documents/pex1/list.c
+list.h
+/home/cs483/Documents/pex1/list.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/cs483/Documents/pex1/list.h
+
+/home/cs483/Documents/pex1/listtest.c
+list.h
+/home/cs483/Documents/pex1/list.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/cs483/Documents/pex1/shell.c
+list.h
+/home/cs483/Documents/pex1/list.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/wait.h
+-
+

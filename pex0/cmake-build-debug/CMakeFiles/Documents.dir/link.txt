@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Documents.dir/pex0.c.o  -o Documents 

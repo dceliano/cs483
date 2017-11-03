@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs483/Documents/pex2/byutr.h
+stdint.h
+-
+
+/home/cs483/Documents/pex2/lrustack.c
+stdio.h
+-
+stdlib.h
+-
+lrustack.h
+/home/cs483/Documents/pex2/lrustack.h
+
+/home/cs483/Documents/pex2/lrustack.h
+stdint.h
+-
+
+/home/cs483/Documents/pex2/main.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+inttypes.h
+-
+byutr.h
+/home/cs483/Documents/pex2/byutr.h
+lrustack.h
+/home/cs483/Documents/pex2/lrustack.h
+
